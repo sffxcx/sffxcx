@@ -26,18 +26,18 @@
 ### Технологии / Technologies
 
 **[RU]**
-- **SQL** 🟡 — создаю таблицы, пишу запросы с выборками и соединениями
-- **HTTP / REST API** 🟡 — понимаю основы, работаю с запросами, ответами, статус-кодами, реализую серверы на C++
-- **Git / GitHub** 🟢 — уверенно использую для ведения проектов
-- **Linux** 🟡 — базовые команды, работа в терминале
-- **CMake** 🟡 — сборка проектов на C++
+🟢 **SQL** — создаю таблицы, пишу запросы с выборками и соединениями
+🟢 **HTTP / REST API** — понимаю основы, работаю с запросами, ответами, статус-кодами, реализую серверы на C++
+🟢 **Git / GitHub** — уверенно использую для ведения проектов
+🟢 **Linux** — базовые команды, работа в терминале
+🟢 **CMake** — сборка проектов на C++
 
 **[EN]**
-- **SQL** 🟡 — create tables, write queries with selections and joins
-- **HTTP / REST API** 🟡 — understand basics, work with requests, responses, status codes, implement servers in C++
-- **Git / GitHub** 🟢 — confidently use for project management
-- **Linux** 🟡 — basic commands, terminal work
-- **CMake** 🟡 — C++ project build system
+🟢 **SQL** — create tables, write queries with selections and joins
+🟢 **HTTP / REST API** — understand basics, work with requests, responses, status codes, implement servers in C++
+🟢 **Git / GitHub** — confidently use for project management
+🟢 **Linux** — basic commands, terminal work
+🟢 **CMake** — C++ project build system
   
 ---
 
