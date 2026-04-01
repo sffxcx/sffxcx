@@ -1,7 +1,7 @@
 # 👋 Привет! / Hello! Я / I am Sofia / София.
 
-**Студентка Иннополис 1 курса направления "Математические основы искусственного интеллекта" | Начинающий C++ Backend разработчик**  
-**Innopolis 1st year student in the field of "Mathematical Foundations of Artificial Intelligence" | Junior C++ Backend Developer**
+**Студентка Иннополис  | Начинающий C++ Backend разработчик**  
+**Innopolis University student | Junior C++ Backend Developer**
 
 ---
 
@@ -9,11 +9,7 @@
 
 **[RU]** Привет! Я учусь в [Университете Иннополис](https://innopolis.university/) на первом курсе направлении «Математические основы искусственного интеллекта». Активно изучаю **C++** и стремлюсь стать профессиональным **Backend-разработчиком**.🚀
 
-Моя цель — создавать надежные и эффективные серверные решения, разбираться в том, как работают системы изнутри, и постоянно расти как инженер.
-
 **[EN]** Hello! I am a first-year student at [Innopolis University](https://innopolis.university/) in the “Mathematical Foundations of Artificial Intelligence” major. I'm actively learning **C++** and striving to become a professional **Backend Developer**.🚀
-
-My goal is to create reliable and efficient server-side solutions, understand how systems work from the inside, and continuously grow as an engineer.
 
 ---
 
