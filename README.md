@@ -26,18 +26,18 @@
 ### Технологии / Technologies
 
 **[RU]**
-🟢 **SQL** — создаю таблицы, пишу запросы с выборками и соединениями
-🟢 **HTTP / REST API** — понимаю основы, работаю с запросами, ответами, статус-кодами, реализую серверы на C++
-🟢 **Git / GitHub** — уверенно использую для ведения проектов
-🟢 **Кроссплатформенная разработка** — код работает на Windows и Linux/POSIX-системах, использую условную компиляцию (#ifdef _WIN32)
-🟢 **CMake** — сборка проектов на C++
+- 🟢 **SQL** — создаю таблицы, пишу запросы с выборками и соединениями
+- 🟢 **HTTP / REST API** — понимаю основы, работаю с запросами, ответами, статус-кодами, реализую серверы на C++
+- 🟢 **Git / GitHub** — уверенно использую для ведения проектов
+- 🟢 **Кроссплатформенная разработка** — код работает на Windows и Linux/POSIX-системах, использую условную компиляцию (#ifdef _WIN32)
+- 🟢 **CMake** — сборка проектов на C++
 
 **[EN]**
-🟢 **SQL** — create tables, write queries with selections and joins
-🟢 **HTTP / REST API** — understand basics, work with requests, responses, status codes, implement servers in C++
-🟢 **Git / GitHub** — confidently use for project management
-🟢 **Cross-platform development** — code runs on Windows and Linux/POSIX systems, using conditional compilation (#ifdef _WIN32)
-🟢 **CMake** — C++ project build system
+- 🟢 **SQL** — create tables, write queries with selections and joins
+- 🟢 **HTTP / REST API** — understand basics, work with requests, responses, status codes, implement servers in C++
+- 🟢 **Git / GitHub** — confidently use for project management
+- 🟢 **Cross-platform development** — code runs on Windows and Linux/POSIX systems, using conditional compilation (#ifdef _WIN32)
+- 🟢 **CMake** — C++ project build system
   
 ---
 
