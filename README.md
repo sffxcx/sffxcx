@@ -15,11 +15,11 @@
 
 ### Языки программирования / Programming Languages
 
-**C++** 🟡 — Базовый уровень / Basic level  
+🟡 **C++** — Базовый уровень / Basic level  
 **[RU]** Активно использую в личных проектах на GitHub, разбираю ООП, работу с памятью, стандартную библиотеку STL  
 **[EN]** Actively using in personal GitHub projects, studying OOP, memory management, STL
 
-**Python** 🟡 — Базовый уровень / Basic level  
+🟡 **Python** — Базовый уровень / Basic level  
 **[RU]** Пишу домашние задания в университете, автоматизирую задачи, работаю с алгоритмами и структурами данных, оптимизирую код под нужную асимптотику  
 **[EN]** Write university assignments, automate tasks, work with algorithms and data structures, optimize code for required asymptotic complexity
 
