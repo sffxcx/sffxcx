@@ -7,11 +7,11 @@
 
 ## 🎯 Обо мне / About Me
 
-**[RU]** Привет! Я учусь в [Университете Иннополис](https://innopolis.university/) на направлении «Математические основы искусственного интеллекта». Активно изучаю **C++** и стремлюсь стать профессиональным **Backend-разработчиком**. Сейчас готовлюсь к поступлению в **Школу разработки Яндекса** 🚀
+**[RU]** Привет! Я учусь в [Университете Иннополис](https://innopolis.university/) на первом курсе направлении «Математические основы искусственного интеллекта». Активно изучаю **C++** и стремлюсь стать профессиональным **Backend-разработчиком**.🚀
 
 Моя цель — создавать надежные и эффективные серверные решения, разбираться в том, как работают системы изнутри, и постоянно расти как инженер.
 
-**[EN]** Hi! I'm from Kazakhstan, currently studying at [Innopolis University](https://innopolis.university/) in the "Mathematical Foundations of Artificial Intelligence" program. I'm actively learning **C++** and striving to become a professional **Backend Developer**. Currently preparing to apply to the **Yandex School of Software Development** 🚀
+**[EN]** Hello! I am a first-year student at [Innopolis University](https://innopolis.university/) in the “Mathematical Foundations of Artificial Intelligence” major. I'm actively learning **C++** and striving to become a professional **Backend Developer**.🚀
 
 My goal is to create reliable and efficient server-side solutions, understand how systems work from the inside, and continuously grow as an engineer.
 
