@@ -1,5 +1,3 @@
-# 👋 Привет! / Hello! Я / I am Sofia / София.
-
 **Студентка Иннополис  | Начинающий C++ Backend разработчик**  
 **Innopolis University student | Junior C++ Backend Developer**
 
