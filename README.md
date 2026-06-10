@@ -5,9 +5,9 @@
 
 ## 🎯 Обо мне / About Me
 
-**[RU]** Привет! Я учусь в [Университете Иннополис](https://innopolis.university/) на первом курсе направлении «Математические основы искусственного интеллекта». Активно изучаю **C++** и стремлюсь стать профессиональным **Backend-разработчиком**.🚀
+**[RU]** Я учусь в [Университете Иннополис](https://innopolis.university/) на первом курсе направлении «Математические основы искусственного интеллекта». Активно изучаю **C++** и стремлюсь стать профессиональным **Backend-разработчиком**.🚀
 
-**[EN]** Hello! I am a first-year student at [Innopolis University](https://innopolis.university/) in the “Mathematical Foundations of Artificial Intelligence” major. I'm actively learning **C++** and striving to become a professional **Backend Developer**.🚀
+**[EN]** I am a first-year student at [Innopolis University](https://innopolis.university/) in the "Mathematical Foundations of Artificial Intelligence" major. I'm actively learning **C++** and striving to become a professional **Backend Developer**.🚀
 
 ---
 
@@ -26,19 +26,21 @@
 ### Технологии / Technologies
 
 **[RU]**
-- 🟢 **SQL** — создаю таблицы, пишу запросы с выборками и соединениями
+- 🟢 **SQL** — создаю таблицы, пишу запросы с выборками и соединениями, использую SQLite в проектах
 - 🟢 **HTTP / REST API** — понимаю основы, работаю с запросами, ответами, статус-кодами, реализую серверы на C++
 - 🟢 **Git / GitHub** — уверенно использую для ведения проектов
-- 🟢 **Кроссплатформенная разработка** — код работает на Windows и Linux/POSIX-системах, использую условную компиляцию (#ifdef _WIN32)
+- 🟢 **Кроссплатформенная разработка** — код работает на Windows, Linux и macOS, использую условную компиляцию (`#ifdef _WIN32`)
+- 🟢 **Docker** — контейнеризация C++ проектов для кроссплатформенного запуска
 - 🟢 **CMake** — сборка проектов на C++
 
 **[EN]**
-- 🟢 **SQL** — create tables, write queries with selections and joins
+- 🟢 **SQL** — create tables, write queries with selections and joins, use SQLite in projects
 - 🟢 **HTTP / REST API** — understand basics, work with requests, responses, status codes, implement servers in C++
 - 🟢 **Git / GitHub** — confidently use for project management
-- 🟢 **Cross-platform development** — code runs on Windows and Linux/POSIX systems, using conditional compilation (#ifdef _WIN32)
+- 🟢 **Cross-platform development** — code runs on Windows, Linux and macOS, using conditional compilation (`#ifdef _WIN32`)
+- 🟢 **Docker** — containerization of C++ projects for cross-platform deployment
 - 🟢 **CMake** — C++ project build system
-  
+
 ---
 
 ## 🎓 Образование / Education
@@ -52,5 +54,5 @@
 
 ## 📬 Связь со мной / Contact Me
 
-- 📧 Email: sofa3572@gmail.com ; s.bondarr@yandex.com
+- 📧 Email: sofa3572@gmail.com , s.bondarr@yandex.com
 - 💬 Telegram: @sffxcx
